@@ -1,0 +1,44 @@
+{
+  "name": "ag3",
+  "version": "0.1.0",
+  "description": "algoritmo genético em Node",
+  "main": "index.js",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "express": "^4.14.0",
+    "gnuplot": "^0.3.1",
+    "jquery": "^3.0.0",
+    "jsonfile": "^2.3.1",
+    "mathjs": "^3.2.1",
+    "mongodb": "^2.2.5",
+    "mongoose": "^4.5.3",
+    "node-mysql": "^0.4.2",
+    "plotter": "^0.5.0",
+    "random-js": "^1.0.8",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardo-cess/ag.git"
+  },
+  "bin": {
+    "democli": "index.js"
+  },
+  "keywords": [
+    "genetic",
+    "algorithm",
+    "ag",
+    "ga",
+    "node"
+  ],
+  "author": "Carlos Eduardo Santiago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardo-cess/ag3/issues"
+  },
+  "homepage": "https://github.com/eduardo-cess/ag3#readme"
+}
